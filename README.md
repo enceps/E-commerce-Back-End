@@ -1,5 +1,8 @@
 # E-commerce-Back-End
 
+
+## Video Link https://drive.google.com/file/d/1hHj2LQVB2KZ0INVycjrQdsAeIkaaID09/view
+
 GIVEN a functional Express.js API
 
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
